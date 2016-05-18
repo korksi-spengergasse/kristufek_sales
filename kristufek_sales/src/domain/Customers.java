@@ -13,5 +13,4 @@ public class Customers {
 		public ArrayList<Customer> getCustomer() {
 			return customer;
 		}
-	
 }
